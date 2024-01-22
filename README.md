@@ -7,12 +7,11 @@
 ### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/RepliDocsApp-GoogleDocsReplica/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, will be subjected to copyright violation with sebsequent legal potential concerns.***
 `NOTE:` Must run the project at where the `flutter` directory at. 
 # Build
-[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/>
-[Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#prerequisites--setups)<br/> 
-[Debugging&Troubleshooting](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#debuggingtroubleshooting)<br/> 
-[Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#synchronous-developing-notes)<br/>
-[Testing Result](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#testing-result)<br/> 
-[Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#tags-and-topics)<br/>
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/RepliDocsApp-GoogleDocsReplica#method-to-run--test-the-project-locally)<br/>
+[Prerequisites & Setups](https://github.com/KrystalZhang612/RepliDocsApp-GoogleDocsReplica#prerequisites--setups)<br/> 
+[Debugging&Troubleshooting](https://github.com/KrystalZhang612/RepliDocsApp-GoogleDocsReplica#debuggingtroubleshooting)<br/> 
+[Synchronous Developing Notes](https://github.com/KrystalZhang612/RepliDocsApp-GoogleDocsReplica#synchronous-developing-notes)<br/> 
+[Tags and Topics](https://github.com/KrystalZhang612/RepliDocsApp-GoogleDocsReplica#tags-and-topics)<br/>
 # Contribution
 [Author](https://github.com/KrystalZhang612/KrystalZhang-Repli-Docs-App/blob/main/README.md#author)
 # Functionalities/Demo
